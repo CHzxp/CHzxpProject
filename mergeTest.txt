@@ -1,3 +1,5 @@
 merge  测试
 在master端修改的东西
 增加--no-off开关
+commit1  为增加一条竖杠
+commit2  为增加两条竖杠
